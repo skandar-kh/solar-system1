@@ -154,11 +154,7 @@ footer {
     letter-spacing: 3px;
 }
 
-.social-links {
-    display: flex;
-    gap: 30px;
-    align-items: center;
-}
+
 
 .social-link {
     display: flex;
